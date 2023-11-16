@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-be-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/Haovvh/nodejs-be-api.git",
+  "author": "Haovvh <haovvh@gmail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
